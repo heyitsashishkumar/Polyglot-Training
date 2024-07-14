@@ -1,0 +1,110 @@
+General Resource:
+JavaScript Roadmap - [https://roadmap.sh/javascript]
+React Roadmap - [https://roadmap.sh/react]
+
+Training Schedule
+Day 1: Introduction to Training
+
+Days 2-15: Introduction to HTML, CSS, JS, Ajax, etc.
+
+    HTML:
+        [https://www.youtube.com/watch?v=HGTJBPNC-Gw&ab_channel=BroCode] -- HTML & CSS (English 4hrs)
+        OR
+        [https://www.youtube.com/watch?v=BsDoLVMnmZs&ab_channel=CodeWithHarry] (Hindi 3hrs)
+        OR
+        [https://www.youtube.com/watch?v=kUMe1FH4CHE&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org] (English) (4hrs)
+
+    CSS:
+        [https://www.youtube.com/watch?v=Edsxf_NBFrw&pp=ygUPY3NzIGluIG9uZSBzaG90] (Hindi) (8hrs)
+        OR
+        [https://www.youtube.com/watch?v=OXGznpKZ_sA&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&index=6&ab_channel=freeCodeCamp.org] (English) (11hrs)
+
+    JavaScript & AJAX:
+        [https://www.youtube.com/watch?v=lfmg-EJ8gm4&pp=ygUWamF2YXNjcmlwdCBpbiBvbmUgc2hvdA%3D%3D] (English) (12hrs)
+        OR
+        [https://www.youtube.com/watch?v=sscX432bMZo&ab_channel=ChaiaurCode] - PART 1 (Hindi) (9hrs)
+        [https://www.youtube.com/watch?v=_TjtAyMkiTI&ab_channel=ChaiaurCode] - PART 2 (Hindi) (10hrs)
+
+Days 16-25: 
+    Introduction to Web Application (Client and Server)
+        [https://www.youtube.com/watch?v=p02AIAoImzU&t=158s&pp=ygUKY2xyIHZzIHNzcg%3D%3D] (English) (14mins)
+        OR
+        [https://www.youtube.com/watch?v=YkxrbxoqHDw&pp=ygUKY2xyIHZzIHNzcg%3D%3D] (Hindi) (17mins)
+
+    REST and SOAP
+        [https://www.youtube.com/watch?v=_fq8Ye8kodA&ab_channel=edureka%21] (English) (13mins)
+
+    Introduction to JS frameworks
+        [https://www.youtube.com/watch?v=Ka77djMkSwg&ab_channel=SuperSimpleDev] (English) (9mins)
+
+    Installing Node.js and setting up the system
+        [https://www.youtube.com/watch?v=06X51c6WHsQ&t=171s&ab_channel=ProgrammingKnowledge] (English) (10min)
+
+Day 26: Add-On Learning
+
+Resources for Day 27 - 28:
+[https://youtu.be/2LsOyOaobrc?si=2eaa8h3fEGlk_49K&t=141] (Hindi) (1.5hrs)
+
+Day 27: React JS Basics (½ Day)
+    Setup of React JS
+    Hello World Program
+    React Starter (Folder and Files)
+    Lifecycle Methods (Class Components)
+
+Day 28: ES6 (½ Day)
+    Classes, Arrow Functions, Variables (let, const, var)
+    Array Methods (.map(), etc.)
+    Destructuring, Modules, Ternary Operator, Spread Operator
+
+Day 29: Assignment 01
+
+Resources for Day 30 - 31
+    [https://www.youtube.com/watch?v=RVFAyFWO4go&ab_channel=DaveGray] (English) (9hrs)
+    [https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind] (English) (4hrs) (Optional)
+
+Day 30: Hooks (1 Day)
+    Introduction to Hooks: useState, useEffect, useContext
+    Custom Hooks
+    Day 31: Context API (1 Day)
+    Using Context for State Management
+    Creating and Providing Context
+    Assignment on Context API
+
+Day 32: Routing (1 Day)
+    React Router: Setting up Routes and Navigation
+        [https://www.youtube.com/watch?v=Ul3y1LXxzdU&ab_channel=WebDevSimplified] (English)
+
+    Next.js Routing
+        [https://youtu.be/mTz0GXj8NN0?si=rCtChKxfVg1Lr8H4&t=697] (English)
+        OR
+        [https://www.youtube.com/watch?v=MFuwkrseXVE&ab_channel=Academind] (English)
+
+    React Native Routing
+        [https://www.youtube.com/watch?v=c_7ukxJz1wE&ab_channel=HiteshChoudhary] (English) (10mins)
+
+Day 33: GraphQL with Stepzen (1 Day)
+    Introduction [https://www.youtube.com/watch?v=eIQh02xuVw4&pp=ygUUR3JhcGhRTCB3aXRoIFN0ZXB6ZW4%3D] (English)
+    Sample Application [https://www.youtube.com/watch?v=xWuUY53y0g8&ab_channel=notJust%E2%80%A4dev] (English)
+
+Day 34: Assignment 02
+
+Day 35: Forms (1 Day) [https://www.youtube.com/watch?v=oPteQFUK42w&ab_channel=developedbyed] (English) (1hr)
+    Handling Form Inputs
+    Controlled vs. Uncontrolled Components
+
+Day 36: Styling (1 Day)
+    CSS Modules [https://www.youtube.com/watch?v=ZawAwPYrxGA&ab_channel=TelmoSampaio] (English)
+    Styled-Components [https://www.youtube.com/watch?v=-9ZPBAcjmh4&ab_channel=ThapaTechnical] (Hindi)
+    Inline Styling [https://www.youtube.com/watch?v=k51W7bz7LQU&ab_channel=ThapaTechnical] (Hindi)
+    Styling React Using Sass [https://www.youtube.com/watch?v=kpcjSaRngg8&pp=ygUYU3R5bGluZyBSZWFjdCBVc2luZyBTYXNz] (English)
+
+Day 37: Redux (Optional) (1 Day) [https://www.youtube.com/watch?v=pX0SBJF01EU&ab_channel=HiteshChoudhary] (English)
+    Basic Concepts: Store, Actions, Reducers
+    Setting up Redux in a React Project
+    Context API with useReducer Hook (½ Day)
+
+Combining Context API and useReducer for State Management [https://www.youtube.com/watch?v=BCD2irXaVoE&t=658s&ab_channel=Codevolution] (English)
+Feel free to reach out if you have any questions or need further details. We look forward to your participation!
+
+Best regards,
+Ashish Kumar
